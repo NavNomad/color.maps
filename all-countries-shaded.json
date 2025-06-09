@@ -1,0 +1,802 @@
+{
+  "CTY001": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY002": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY003": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY004": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY005": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY006": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY007": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY008": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY009": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY010": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY011": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY012": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY013": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY014": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY015": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY016": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY017": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY018": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY019": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY020": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY021": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY022": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY023": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY024": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY025": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY026": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY027": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY028": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY029": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY030": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY031": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY032": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY033": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY034": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY035": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY036": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY037": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY038": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY039": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY040": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY041": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY042": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY043": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY044": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY045": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY046": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY047": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY048": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY049": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY050": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY051": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY052": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY053": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY054": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY055": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY056": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY057": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY058": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY059": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY060": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY061": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY062": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY063": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY064": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY065": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY066": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY067": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY068": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY069": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY070": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY071": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY072": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY073": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY074": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY075": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY076": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY077": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY078": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY079": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY080": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY081": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY082": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY083": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY084": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY085": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY086": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY087": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY088": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY089": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY090": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY091": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY092": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY093": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY094": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY095": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY096": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY097": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY098": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY099": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY100": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY101": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY102": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY103": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY104": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY105": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY106": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY107": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY108": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY109": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY110": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY111": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY112": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY113": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY114": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY115": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY116": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY117": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY118": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY119": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY120": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY121": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY122": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY123": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY124": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY125": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY126": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY127": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY128": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY129": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY130": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY131": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY132": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY133": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY134": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY135": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY136": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY137": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY138": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY139": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY140": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY141": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY142": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY143": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY144": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY145": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY146": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY147": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY148": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY149": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY150": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY151": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY152": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY153": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY154": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY155": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY156": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY157": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY158": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY159": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY160": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY161": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY162": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY163": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY164": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY165": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY166": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY167": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY168": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY169": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY170": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY171": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY172": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY173": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY174": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY175": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY176": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY177": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY178": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY179": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY180": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY181": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY182": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY183": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY184": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY185": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY186": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY187": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY188": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY189": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY190": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY191": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY192": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY193": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY194": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY195": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  },
+  "CTY196": {
+    "region": "Europe",
+    "color": "#33A1FD"
+  },
+  "CTY197": {
+    "region": "America",
+    "color": "#FF7C7C"
+  },
+  "CTY198": {
+    "region": "Africa",
+    "color": "#4FE6AD"
+  },
+  "CTY199": {
+    "region": "Asia",
+    "color": "#FFC766"
+  },
+  "CTY200": {
+    "region": "Oceania",
+    "color": "#8B6FD9"
+  }
+}
